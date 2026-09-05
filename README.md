@@ -72,7 +72,7 @@ Follow ORINTHAL and stay updated as the ecosystem grows.
 - X: 
 - Telegram: 
 - Discord: 
-Instagram 
+  
 
 
 📌 Disclaimer
