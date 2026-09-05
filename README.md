@@ -68,10 +68,10 @@ Not all ORINTHAL projects, products or technologies are open source.
 
 Follow ORINTHAL and stay updated as the ecosystem grows.
 
-- Website: 
-- X: 
-- Telegram: 
-- Discord: 
+- Website: https://discord.gg/w32AZuZkg
+- X: https://x.com/orinthal_Ecos
+- Telegram: t.me/orinthalofficial
+- Discord: https://discord.gg/w32AZuZkg
   
 
 
